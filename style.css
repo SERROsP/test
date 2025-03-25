@@ -1,0 +1,9 @@
+body{
+    height: 100rem;
+    background-image: linear-gradient(90deg,red,rgb(58, 193, 235));
+    background-repeat: no-repeat;
+}
+
+h1{
+ font-size: 10rem;
+}
